@@ -40,4 +40,4 @@ if formatted_combinations:
         print(f"Items: {combo}, Survival Points: {points}")
 else:
     print("Ноль является доказательством отсутствия комбинаций")
-#look
+
